@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/mehr32/test-fils/main/logo-col%20or.png" alt="MOA">
+</h1>
 
-**Here are some ideas to get you started:**
+# Hello! :wave:  What is MOA doing?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Respects your privacy
+
+- It shows the results in the best way
+
+- It follows the principles of appearance in the best profile
