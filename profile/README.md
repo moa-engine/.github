@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mehr32/test-fils/main/logo-col%20or.png" alt="MOA">
+  <img src="https://github.com/moa-engine/MOA/raw/master/src/brand/searxng.svg" alt="MOA">
 
 ## What is MOA doing?
 
