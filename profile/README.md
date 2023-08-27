@@ -1,5 +1,5 @@
 
-<div align="bottom">
+<div align="center">
   <img src="https://github.com/moa-engine/MOA/raw/master/src/brand/searxng.svg" alt="MOA">
   
 ## What is MOA doing?
